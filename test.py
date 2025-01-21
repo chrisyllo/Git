@@ -1,2 +1,2 @@
-* this is a print statement 
+* this is a print statement ;
 print("Bye World")
